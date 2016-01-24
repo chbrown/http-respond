@@ -1,6 +1,6 @@
 {
   "name": "http-respond",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adaptive (i.e., kitchen-sink), opinionated, HTTP response handler for Node.js",
   "keywords": [
     "http",
