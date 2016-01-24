@@ -1,0 +1,35 @@
+{
+  "name": "http-respond",
+  "version": "0.0.0",
+  "description": "Adaptive (i.e., kitchen-sink), opinionated, HTTP response handler for Node.js",
+  "keywords": [
+    "http",
+    "typed",
+    "promises",
+    "adapt"
+  ],
+  "homepage": "https://github.com/chbrown/http-respond",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chbrown/http-respond.git"
+  },
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "babel-core": "^5.0.0",
+    "coveralls": "*",
+    "declarations": "*",
+    "istanbul": "*",
+    "mocha": "*",
+    "mocha-lcov-reporter": "*",
+    "request": "*",
+    "typescript": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
